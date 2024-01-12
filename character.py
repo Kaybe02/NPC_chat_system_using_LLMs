@@ -2,7 +2,7 @@ import openai
 from transformers import pipeline
 
 
-api_key = "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"
+api_key = "your-api-key"
 
 class AdvancedChatbot:
     def __init__(self, api_key):
